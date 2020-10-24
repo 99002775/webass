@@ -1,0 +1,6 @@
+[
+    {"userId":1,"userName":"diya","userCity":"Coimbatore","userEmail":"diya@gmail.com","userPhone":"9846352895"},
+    {"userId":2,"userName":"ashwin","userCity":"chennai","userEmail":"ashwin@gmail.com","userPhone":"9876542318"},
+    {"userId":3,"userName":"dev","userCity":"banglore","userEmail":"dev@gmail.com","userPhone":"9765231890"},
+    {"userId":"4","userName":"ammu","userCity":"mysore","userEmail":"shusma@gmail.com","userPhone":"9440046330"}
+    ]
